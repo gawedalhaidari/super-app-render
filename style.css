@@ -1,0 +1,13 @@
+
+body {
+  font-family: 'Tajawal', sans-serif;
+  background: #f0f0f0;
+  padding: 20px;
+  direction: rtl;
+}
+#app {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 20px;
+  color: #2c3e50;
+}
