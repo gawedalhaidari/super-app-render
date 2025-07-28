@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: super-app-render
+    env: node
+    region: oregon
+    plan: free
+    buildCommand: npm install
+    startCommand: node server.js
+    branch: master
+    rootDir: .
